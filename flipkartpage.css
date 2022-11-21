@@ -1,0 +1,113 @@
+.image_container_flipkardlogo >img{
+    width: 150px;
+    height: 150px;
+}
+.image_container_flipkardlogo{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 170;
+    
+}
+.image_container_flipkardlogo > input{
+    width: 35%;
+    height: 37px;
+
+}
+.loginbutton_container{
+    background-color: white;
+    border: 2px solid yellow;
+    text-decoration: none;
+    color: blue;
+  margin-left: 19px;
+  font-size: medium;
+ font-weight: 600;
+
+}
+.image_container_flipkardlogo > button{
+    width: 130px;
+    height:30px ;
+}
+.become_container{
+    margin-left: 70;
+    width: 130px;
+    font-size: medium;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+.more_container{
+    margin-left: 0;
+    width: 130px;
+    font-size: medium;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+
+}
+.card_container{
+
+    margin-left: 0;
+    width: 130px;
+    font-size: medium;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+
+}
+.image_container_flipkardlogo{
+    height: 70px;
+    
+    
+
+    
+}
+.cardimage_container > img{
+    height: 25px
+    
+
+}
+body{
+    background-color: blue;
+}
+.secondline_container{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background-color: white;
+    
+  
+}
+.secondline_container > img{
+    height: 70;
+    width: 100;
+    margin-left: 58;
+   
+}
+.allname_container{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    font-size: larger;
+    
+}
+.name_container{
+    margin-left: 82;
+   
+    margin-bottom: -2px;
+    font-weight: 700;
+  
+}
+.body_image_container > img{
+    width: 100%;
+    height: 350;
+}
+.last_lineimage_container >img{
+    height: 300;
+    margin-left: 20;
+}
+.last_lineimage_container{
+    background-color: white;
+}

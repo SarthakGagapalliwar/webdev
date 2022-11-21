@@ -1,0 +1,64 @@
+.image_container{
+    
+    margin: 30px 0;
+    width: 380;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.image_container >img{
+    height: 80px;
+    width: 320px;
+}
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.form_container{
+   background-color: grey; 
+   width: 350px;
+   padding: 10px 15px;
+border: 1.5px solid lightgray;
+
+}
+.sign_container{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -10px;
+}
+.input_container > p {
+    font-size: 17px;
+    font-weight: bold;
+   
+}
+.input_container > input {
+    width: 100%;
+    margin-top: -10px;
+    height: 25px;
+    border-radius: 5px;
+}
+.signin_container{
+    background-color: yellow;
+    width: 100%;
+    margin-top: 10px;
+    height: 30px;
+}
+.tnc_container{
+    font-size: 13px;
+    font-weight: bold;
+}
+.footer_button_container{
+    display: flex;
+    flex-direction: column;
+
+}
+.footer_button_container > button {
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}

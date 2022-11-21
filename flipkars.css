@@ -1,0 +1,89 @@
+.all_container{
+  
+    width: 500px;
+    height: 496px;
+    padding: 20px 30px;
+    border: 2px solid #808080;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    ;
+}
+
+.image_container >img{
+    width: 500px;
+    height: 500px;
+    padding: 20px 30px;
+}
+.image_container{
+    background-color: blue;
+}
+
+.login_container {
+    font-size: 26px;
+    font-weight: bold;
+   
+}
+
+.detail_container{
+    font-size: 16px;
+   font-weight: 700;
+ margin-bottom: 13px;
+}
+
+.input_container >input{
+    width: 75%;
+    margin-top: -10px;
+    height: 30px;
+    border-radius: 20px;
+
+}
+.password_container{ margin-bottom: 13px;
+
+   
+}
+
+.enter_passwaord_container{
+    font-size: 16px;
+   font-weight: bold;
+   margin-top: 10px;
+}
+.password_container >input{
+    width: 75%;
+    margin-top: -10px;
+    height: 35px;
+    border-radius: 20px;
+
+
+
+}
+.button_container > button {
+    width: 37%;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 40px;
+}
+.loginbutton_container{
+    background-color: blue;
+    text-decoration: non;
+    color: white;
+}
+.lastline_container{
+    margin-top: 80px;
+}
+.fullmiddle_container{margin-top: 60px;}
+
+.signup_container{
+    background-color: white;
+    text-decoration: none;
+    color: blue;
+    border: 2px solid blue;
+    margin-right: 10px;
+}
+.clickhere_container{
+    text-decoration: none;
+    color: blue;
+}
